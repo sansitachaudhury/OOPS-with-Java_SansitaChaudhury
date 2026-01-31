@@ -20,4 +20,5 @@ public class exp1 {
         System.out.println("Name: " + obj.name);
         System.out.println("Section: " + obj.sec);
     }
+
 }
