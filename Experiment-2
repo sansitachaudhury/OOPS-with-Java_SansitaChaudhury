@@ -21,7 +21,7 @@ class calcarea{
         return 3.14 * r * r;
     }
 }
-public class exp2 {
+public class exp2{
     public static void main(String[] args){
         calcarea square = new calcarea(10);
         calcarea rectangle = new calcarea(4, 6);
